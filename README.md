@@ -1,4 +1,7 @@
-# 📈 Stock Market Management System (zNWatch)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/Database-SQL-blue?style=for-the-badge)
+
+# 📈 Stock Market Management System (Tradzo)
 
 ## 🚀 About the Project
 
